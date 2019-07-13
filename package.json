@@ -1,0 +1,25 @@
+{
+  "name": "yelpcampclone",
+  "version": "1.0.0",
+  "description": "Camping visits plan app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imshaiksaif/yelpcampClone.git"
+  },
+  "author": "saif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imshaiksaif/yelpcampClone/issues"
+  },
+  "homepage": "https://github.com/imshaiksaif/yelpcampClone#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
